@@ -1,6 +1,6 @@
 # Jean Pessanha
 
-**Python Developer  Backend Developer**  
+**Back-end Developer**  
 🇧🇷 Brazil
 
 ## 🛠️ Technologies
